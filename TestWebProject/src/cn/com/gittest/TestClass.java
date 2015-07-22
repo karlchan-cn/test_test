@@ -3,7 +3,6 @@
  */
 package cn.com.gittest;
 
-
 /**
  * <p>Project:			<p>
  * <p>Module:			<p>
@@ -14,4 +13,7 @@ package cn.com.gittest;
  */
 public class TestClass {
 
+	public static void main( String[] args ) {
+		System.out.println( "a" );
+	}
 }
