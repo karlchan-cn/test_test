@@ -17,5 +17,6 @@ public class TestClass {
 		System.out.println( "a" );
 		System.err.println( "b" );
 		System.err.println( "new difference from master branch" );
+		System.err.println( "localÌá½»´úÂë" );
 	}
 }
