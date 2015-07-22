@@ -20,5 +20,6 @@ public class TestClass {
 		System.out.println( "new difference from hotfix" );
 		System.out.println( "hot fix被提前提交代码" );
 		System.out.println( "hot fix 本地提交" );
+		System.out.println( "hot fix再次提交提前提交代码" );
 	}
 }
