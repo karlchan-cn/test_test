@@ -17,5 +17,6 @@ public class TestClass {
 		System.out.println( "a" );
 		System.err.println( "b" );
 		System.err.println( "new difference from master branch" );
+		System.out.println( "new difference from hotfix" );
 	}
 }
