@@ -16,5 +16,6 @@ public class TestClass {
 	public static void main( String[] args ) {
 		System.out.println( "a" );
 		System.err.println( "b" );
+		System.out.println( "new difference from hotfix" );
 	}
 }
