@@ -96,6 +96,6 @@ public class CSVUtils {
 		map.put( "2", "第二列" );
 		map.put( "3", "第三列" );
 		map.put( "4", "第四列" );
-		CSVUtils.createCSVFile( exportData, map, "d:/aaaaaa/mmm/", "活动目录" );
+		CSVUtils.createCSVFile( exportData, map, "d:/", "活动目录" );
 	}
 }
